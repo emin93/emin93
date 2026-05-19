@@ -4,7 +4,7 @@ Senior Software Engineer, thirteen years in. Formerly at Kraken, where security 
 
 #### 🩺 What I'm building
 
-[**ClinDesk**](https://clindesk.ai), an AI receptionist for your clinic's WhatsApp that runs entirely on your Mac. Patient names, message contents, and summaries never leave the doctor's machine. The only thing that travels is an end-to-end encrypted notification when a patient really needs them.
+[**ClinDesk**](https://clindesk.ai), an on-device AI clinic workspace that turns patient WhatsApp messages into context, draft replies, and alerts, running entirely on the doctor's Mac. Patient names, message contents, and summaries never leave the doctor's machine. The only thing that travels is an end-to-end encrypted notification when a patient really needs them.
 
 Same security posture I'd bring to a financial service, in the shape doctors actually use: drag-to-install, no account, no cloud.
 
